@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+🌐 **[Meu site pessoal e currículo](https://maicon-gomes-messias.github.io/)** — suporte técnico, infraestrutura de TI, IoT e dados.
+
+Também estou no [LinkedIn](https://www.linkedin.com/in/maicon-gomes-89a5561ab).
+
 <div align="center">
   <a href="https://github.com/Jopei">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maicon-Gomes-Messias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
