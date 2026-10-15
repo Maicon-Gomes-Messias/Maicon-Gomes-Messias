@@ -20,14 +20,17 @@ ocupam.
 
 ## Projetos em destaque
 
-| Projeto | O que é | Tecnologias |
-| --- | --- | --- |
-| **[Site pessoal e currículo](https://github.com/Maicon-Gomes-Messias/Maicon-Gomes-Messias.github.io)** | Portfólio em página única, 100 no Lighthouse, zero JavaScript no cliente | Astro, React, TypeScript |
-| **[Mapa de calor de ocupação por Wi-Fi](https://github.com/ICEI-PUC-Minas-EC-TCC/pmg-ec-2025-1-tcc2-mapa-de-calor)** | TCC publicado na Revista Abakós: pacotes 802.11 e rede neural estimam a ocupação de um ambiente | Python, TensorFlow, PyShark |
-| **[Portfólio acadêmico](https://github.com/Maicon-Gomes-Messias/portfolio-academico)** | Compilador para MIPS, API REST com JWT, processador em FPGA, app Flutter, banco de dados SQL e algoritmo genético | Java, Node.js, VHDL, Flutter, SQL, Python |
-| **[AED III — Conta Bancária](https://github.com/Maicon-Gomes-Messias/aed-iii-conta-bancaria)** | CRUD em arquivo com criptografia AES e compressão LZW | Java |
-| **[AED III — Futebol](https://github.com/Maicon-Gomes-Messias/aed-iii-futebol)** | CRUD em arquivo com menu interativo e índice por chave | Java |
-| **[AED II — Airbnb](https://github.com/Maicon-Gomes-Messias/aed-ii-airbnb)** | Leitura de 11 MB de dados, modelagem e comparação de algoritmos de ordenação | Java |
+- **[Site pessoal e currículo](https://github.com/Maicon-Gomes-Messias/Maicon-Gomes-Messias.github.io)** — portfólio em página única, com 100 no Lighthouse e zero JavaScript no cliente. `Astro` `React` `TypeScript`
+
+- **[Mapa de calor de ocupação por Wi-Fi](https://github.com/ICEI-PUC-Minas-EC-TCC/pmg-ec-2025-1-tcc2-mapa-de-calor)** — TCC publicado na Revista Abakós: os pacotes 802.11 do ambiente, tratados por uma rede neural, estimam quantas pessoas o ocupam. `Python` `TensorFlow` `PyShark`
+
+- **[Portfólio acadêmico](https://github.com/Maicon-Gomes-Messias/portfolio-academico)** — compilador para MIPS, API REST com JWT, processador em FPGA, app Flutter, banco de dados SQL e algoritmo genético. `Java` `Node.js` `VHDL` `Flutter` `SQL` `Python`
+
+- **[AED III — Conta Bancária](https://github.com/Maicon-Gomes-Messias/aed-iii-conta-bancaria)** — CRUD em arquivo com criptografia AES e compressão LZW. `Java`
+
+- **[AED III — Futebol](https://github.com/Maicon-Gomes-Messias/aed-iii-futebol)** — CRUD em arquivo com menu interativo e índice por chave. `Java`
+
+- **[AED II — Airbnb](https://github.com/Maicon-Gomes-Messias/aed-ii-airbnb)** — leitura de 11 MB de dados e comparação de algoritmos de ordenação. `Java`
 
 O site reúne o [currículo completo](https://maicon-gomes-messias.github.io/), com
 experiências, certificações e publicações.
