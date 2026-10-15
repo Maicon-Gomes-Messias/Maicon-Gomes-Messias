@@ -26,11 +26,11 @@ ocupam.
 
 - **[Portfólio acadêmico](https://github.com/Maicon-Gomes-Messias/portfolio-academico)** — compilador para MIPS, API REST com JWT, processador em FPGA, app Flutter, banco de dados SQL e algoritmo genético. `Java` `Node.js` `VHDL` `Flutter` `SQL` `Python`
 
-- **[AED III — Conta Bancária](https://github.com/Maicon-Gomes-Messias/aed-iii-conta-bancaria)** — CRUD em arquivo com criptografia AES e compressão LZW. `Java`
+- **[AED III — Conta Bancária](https://github.com/Maicon-Gomes-Messias/portfolio-academico/tree/main/aed-iii/conta-bancaria)** — CRUD em arquivo com criptografia AES e compressão LZW. `Java`
 
-- **[AED III — Futebol](https://github.com/Maicon-Gomes-Messias/aed-iii-futebol)** — CRUD em arquivo com menu interativo e índice por chave. `Java`
+- **[AED III — Futebol](https://github.com/Maicon-Gomes-Messias/portfolio-academico/tree/main/aed-iii/futebol)** — CRUD em arquivo com menu interativo e índice por chave. `Java`
 
-- **[AED II — Airbnb](https://github.com/Maicon-Gomes-Messias/aed-ii-airbnb)** — leitura de 11 MB de dados e comparação de algoritmos de ordenação. `Java`
+- **[AED II — Airbnb](https://github.com/Maicon-Gomes-Messias/portfolio-academico/tree/main/aed-ii/airbnb)** — leitura de 11 MB de dados e comparação de algoritmos de ordenação. `Java`
 
 O site reúne o [currículo completo](https://maicon-gomes-messias.github.io/), com
 experiências, certificações e publicações.
