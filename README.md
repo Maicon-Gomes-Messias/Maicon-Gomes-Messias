@@ -1,71 +1,43 @@
-<h1 align="center">Maicon Gomes Messias</h1>
+# Maicon Gomes Messias
 
-<p align="center">
-  <strong>Engenheiro de Computação</strong> &nbsp;·&nbsp; Suporte técnico e infraestrutura de TI<br>
-  <a href="https://maicon-gomes-messias.github.io/">Site e currículo</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/maicon-gomes-89a5561ab">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:maicon.gomesmessias@gmail.com">E-mail</a>
-</p>
+Sou formado em **Engenharia de Computação** pela PUC Minas e trabalho com tecnologia
+desde 2023. Hoje estou na própria PUC Minas, fazendo suporte aos usuários, manutenção de
+sistemas e equipamentos e cuidando da estabilidade da rede.
 
----
+Meu dia é feito de problema que aparece sem avisar: uma impressora que sai da rede, um
+usuário sem acesso, uma máquina que não liga. Nesse trabalho, o que conta é achar a causa
+rápido e resolver de vez.
 
-Bacharel em **Engenharia de Computação** pela PUC Minas, atuo em Tecnologia da Informação
-desde 2023. Hoje, na PUC Minas, cuido do suporte técnico a usuários, da manutenção de
-sistemas e equipamentos e da estabilidade da infraestrutura de rede — um trabalho em que a
-diferença costuma estar no diagnóstico rápido e no atendimento que resolve de verdade.
+Fora do expediente, gosto de mexer em coisa que mede o mundo. No trabalho de conclusão,
+usei o Wi-Fi do próprio ambiente para estimar quantas pessoas estavam em cada sala — sem
+instalar nada além de um roteador.
 
-Gosto de problemas que aparecem no meio do caminho: de uma falha de rede a ser
-diagnosticada até a leitura do tráfego Wi-Fi do ambiente para estimar quantas pessoas o
-ocupam.
+**Site com o currículo completo:** [maicon-gomes-messias.github.io](https://maicon-gomes-messias.github.io/)
+**LinkedIn:** [maicon-gomes](https://www.linkedin.com/in/maicon-gomes-89a5561ab)
+**E-mail:** maicon.gomesmessias@gmail.com
 
-## Projetos em destaque
+## Projetos
 
-- **[Site pessoal e currículo](https://github.com/Maicon-Gomes-Messias/Maicon-Gomes-Messias.github.io)** — portfólio em página única, com 100 no Lighthouse e zero JavaScript no cliente. `Astro` `React` `TypeScript`
+**[Mapeador de processos](https://github.com/Maicon-Gomes-Messias/mapeador-de-processos)**
+Descrevo um processo de negócio em texto e ele vira um diagrama BPMN 2.0 e um relatório
+com tempos, gargalos e oportunidades de automação. Feito em Python puro, sem dependência
+externa.
 
-- **[Mapa de calor de ocupação por Wi-Fi](https://github.com/ICEI-PUC-Minas-EC-TCC/pmg-ec-2025-1-tcc2-mapa-de-calor)** — TCC publicado na Revista Abakós: os pacotes 802.11 do ambiente, tratados por uma rede neural, estimam quantas pessoas o ocupam. `Python` `TensorFlow` `PyShark`
+**[Análise de ocupação por Wi-Fi](https://github.com/ICEI-PUC-Minas-EC-TCC/pmg-ec-2025-1-tcc2-mapa-de-calor)**
+Meu TCC, publicado na Revista Abakós. Um roteador em modo monitor escuta os pacotes do
+ambiente e uma rede neural estima a ocupação, gerando um mapa de calor sobre a planta
+baixa do prédio.
 
-- **[Portfólio acadêmico](https://github.com/Maicon-Gomes-Messias/portfolio-academico)** — compilador para MIPS, API REST com JWT, processador em FPGA, app Flutter, banco de dados SQL e algoritmo genético. `Java` `Node.js` `VHDL` `Flutter` `SQL` `Python`
+**[Portfólio acadêmico](https://github.com/Maicon-Gomes-Messias/portfolio-academico)**
+Os trabalhos da faculdade que valem a pena mostrar: um compilador para MIPS, uma API REST
+com autenticação, um processador em FPGA, um app em Flutter, banco de dados e um
+algoritmo genético.
 
-- **[AED III — Conta Bancária](https://github.com/Maicon-Gomes-Messias/portfolio-academico/tree/main/aed-iii/conta-bancaria)** — CRUD em arquivo com criptografia AES e compressão LZW. `Java`
+**[Site e currículo](https://github.com/Maicon-Gomes-Messias/Maicon-Gomes-Messias.github.io)**
+Página única em Astro e React, com 100 de performance no Lighthouse e nenhum JavaScript
+rodando no navegador.
 
-- **[AED III — Futebol](https://github.com/Maicon-Gomes-Messias/portfolio-academico/tree/main/aed-iii/futebol)** — CRUD em arquivo com menu interativo e índice por chave. `Java`
+## Com o que eu trabalho
 
-- **[AED II — Airbnb](https://github.com/Maicon-Gomes-Messias/portfolio-academico/tree/main/aed-ii/airbnb)** — leitura de 11 MB de dados e comparação de algoritmos de ordenação. `Java`
-
-O site reúne o [currículo completo](https://maicon-gomes-messias.github.io/), com
-experiências, certificações e publicações.
-
-## Tecnologias
-
-**Linguagens e dados**
-
-![Java](https://img.shields.io/badge/Java-0F5C55?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-0F5C55?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0F5C55?style=flat-square)
-![TypeScript](https://img.shields.io/badge/TypeScript-0F5C55?style=flat-square&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-0F5C55?style=flat-square&logo=c&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-0F5C55?style=flat-square)
-
-**Ferramentas e plataformas**
-
-![Node.js](https://img.shields.io/badge/Node.js-0F5C55?style=flat-square&logo=nodedotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-0F5C55?style=flat-square&logo=astro&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0F5C55?style=flat-square&logo=flutter&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0F5C55?style=flat-square&logo=tensorflow&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-0F5C55?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0F5C55?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-0F5C55?style=flat-square&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0F5C55?style=flat-square&logo=windows&logoColor=white)
-
-## Estatísticas
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Maicon-Gomes-Messias&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0F5C55&icon_color=C97A20" alt="Estatísticas do GitHub de Maicon Gomes Messias" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maicon-Gomes-Messias&layout=compact&langs_count=8&hide_border=true&title_color=0F5C55" alt="Linguagens mais usadas por Maicon Gomes Messias" />
-</p>
-
----
-
-<p align="center">
-  <sub>Betim, Minas Gerais · Brasil</sub>
-</p>
+Python, Java e SQL no dia a dia; Linux e Windows como ambiente. Na faculdade passei por
+VHDL, Flutter, Node.js, MATLAB e um pouco de machine learning com TensorFlow.
