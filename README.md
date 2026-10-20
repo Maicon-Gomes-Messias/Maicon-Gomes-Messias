@@ -29,9 +29,10 @@ ambiente e uma rede neural estima a ocupação, gerando um mapa de calor sobre a
 baixa do prédio.
 
 **[Portfólio acadêmico](https://github.com/Maicon-Gomes-Messias/portfolio-academico)**
-Os trabalhos da faculdade que valem a pena mostrar: um compilador para MIPS, uma API REST
-com autenticação, um processador em FPGA, um app em Flutter, banco de dados e um
-algoritmo genético.
+Os projetos que desenvolvi ao longo da Engenharia de Computação na PUC Minas, com o
+código aberto e explicado: um compilador em Java que gera assembly MIPS, uma API REST com
+autenticação, um processador em FPGA descrito em VHDL, um app em Flutter, além de banco
+de dados e um algoritmo genético.
 
 **[Site e currículo](https://github.com/Maicon-Gomes-Messias/Maicon-Gomes-Messias.github.io)**
 Página única em Astro e React, com 100 de performance no Lighthouse e nenhum JavaScript
